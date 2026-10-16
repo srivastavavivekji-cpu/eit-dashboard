@@ -1,4 +1,4 @@
 streamlit
-numpy
+numpy<2.0
 pandas
 matplotlib
